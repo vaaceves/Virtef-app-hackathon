@@ -1,0 +1,2068 @@
+{
+    "transactions": [
+        {
+            "transaction_number": "1364603412",
+            "reference_number": "SPEI",
+            "description": "AAAAAAAA",
+            "amount": "-320.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-26",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1364603227",
+            "reference_number": "2017122640014BMOV0000453287850",
+            "description": "AAAAAAAA",
+            "amount": "320.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-26",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1363036806",
+            "reference_number": "(OL) Traspaso",
+            "description": "AAAAAAAA",
+            "amount": "-52.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-22",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1363034249",
+            "reference_number": "2017122240014BMOV0000498105470",
+            "description": "AAAAAAAA",
+            "amount": "20.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-22",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1362107283",
+            "reference_number": "(OL) Traspaso",
+            "description": "AAAAAAAA",
+            "amount": "-0.10",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-21",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "5055210863",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-3800.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-21",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CAJERO",
+                "product": "",
+                "subcategory": "RETIRO",
+                "service": "",
+                "brand": "",
+                "atm": "CORPORATIVO BANREGIO",
+                "bank": "BANREGIO"
+            }
+        },
+        {
+            "transaction_number": "1361478605",
+            "reference_number": "(OL) Traspaso",
+            "description": "AAAAAAAA",
+            "amount": "-32.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-21",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1361475669",
+            "reference_number": "2017122140014BMOV0000490790070",
+            "description": "AAAAAAAA",
+            "amount": "3850.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-21",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1360439888",
+            "reference_number": "SPEI",
+            "description": "AAAAAAAA",
+            "amount": "-120.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-20",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1360375359",
+            "reference_number": "2017122040014BMOV0000486312690",
+            "description": "AAAAAAAA",
+            "amount": "120.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-20",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1360360547",
+            "reference_number": "(OL) Traspaso",
+            "description": "AAAAAAAA",
+            "amount": "-32.50",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-20",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1359252994",
+            "reference_number": "SPEI",
+            "description": "AAAAAAAA",
+            "amount": "-300.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-19",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1359251011",
+            "reference_number": "2017121940014BMOV0000480699190",
+            "description": "AAAAAAAA",
+            "amount": "300.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-19",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1355576245",
+            "reference_number": "4443280502",
+            "description": "AAAAAAAA",
+            "amount": "-500.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-15",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1355575258",
+            "reference_number": "2017121540014BMOV0000468588290",
+            "description": "AAAAAAAA",
+            "amount": "500.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-15",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1354973451",
+            "reference_number": "4741751716123629",
+            "description": "AAAAAAAA",
+            "amount": "-665.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-15",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1354971691",
+            "reference_number": "2017121540014BMOV0000462651080",
+            "description": "AAAAAAAA",
+            "amount": "600.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-15",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1354367158",
+            "reference_number": "8110468230",
+            "description": "AAAAAAAA",
+            "amount": "-60.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-14",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1353717273",
+            "reference_number": "(OL) Traspaso",
+            "description": "AAAAAAAA",
+            "amount": "-30.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-14",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1352656343",
+            "reference_number": "300988430017",
+            "description": "AAAAAAAA",
+            "amount": "55.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-13",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1352634038",
+            "reference_number": "(OL) Traspaso",
+            "description": "AAAAAAAA",
+            "amount": "-17.50",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-13",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1349815545",
+            "reference_number": "2017121140014BMOV0000480851290",
+            "description": "AAAAAAAA",
+            "amount": "141.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-11",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1348626065",
+            "reference_number": "057993000011",
+            "description": "AAAAAAAA",
+            "amount": "14.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-08",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1348358395",
+            "reference_number": "(OL) Traspaso",
+            "description": "AAAAAAAA",
+            "amount": "-73.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-08",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1348356660",
+            "reference_number": "2017120840014BMOV0000477573890",
+            "description": "AAAAAAAA",
+            "amount": "80.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-08",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1346855198",
+            "reference_number": "(OL) Traspaso",
+            "description": "AAAAAAAA",
+            "amount": "-3.01",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-07",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1346687268",
+            "reference_number": "4741742900018345-061919",
+            "description": "TME 840315KT6 05/12/2017.PAGO EN TELMEX CAT 201",
+            "amount": "-576.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-07",
+            "business": {
+                "name": "PAGO EN TELMEX CAT 201",
+                "activity": {
+                    "name": "Telecomunicaciones"
+                }
+            },
+            "details": {
+                "category": "COMERCIO",
+                "product": "",
+                "subcategory": "TELECOMUNICACIONES",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1345983094",
+            "reference_number": "8187042507",
+            "description": "AAAAAAAA",
+            "amount": "-30.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-06",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1345981617",
+            "reference_number": "2017120640014BMOV0000465392620",
+            "description": "AAAAAAAA",
+            "amount": "30.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-06",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1345418766",
+            "reference_number": "4741742900018345-018734",
+            "description": "SEM 980701STA 04/12/2017.7 ELEVEN TORRE XI",
+            "amount": "-51.50",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-06",
+            "business": {
+                "name": "7 ELEVEN TORRE XI",
+                "activity": {
+                    "name": "Retail"
+                }
+            },
+            "details": {
+                "category": "COMERCIO",
+                "product": "",
+                "subcategory": "RETAIL",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1344581886",
+            "reference_number": "057993000011",
+            "description": "AAAAAAAA",
+            "amount": "576.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-05",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "5054858973",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-300.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-05",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CAJERO",
+                "product": "",
+                "subcategory": "RETIRO",
+                "service": "",
+                "brand": "",
+                "atm": "CORPORATIVO BANREGIO",
+                "bank": "BANREGIO"
+            }
+        },
+        {
+            "transaction_number": "1344477015",
+            "reference_number": "2017120540014BMOV0000459439550",
+            "description": "AAAAAAAA",
+            "amount": "300.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-05",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "5054836223",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-50.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CAJERO",
+                "product": "",
+                "subcategory": "RETIRO",
+                "service": "",
+                "brand": "",
+                "atm": "BENAVIDES SUCURSAL SANTA ROSA",
+                "bank": "BANREGIO"
+            }
+        },
+        {
+            "transaction_number": "1342571808",
+            "reference_number": "2017120440014BMOV0000453074650",
+            "description": "AAAAAAAA",
+            "amount": "100.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1342026734",
+            "reference_number": "SPEI",
+            "description": "AAAAAAAA",
+            "amount": "-190.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1342026362",
+            "reference_number": "2017120440014BMOV0000452679200",
+            "description": "AAAAAAAA",
+            "amount": "100.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1342025888",
+            "reference_number": "SPEI",
+            "description": "AAAAAAAA",
+            "amount": "-10.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1341993467",
+            "reference_number": "05236116011711201700000001980076",
+            "description": "AAAAAAAA",
+            "amount": "-198.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1341992166",
+            "reference_number": "2017120440014BMOV0000452554730",
+            "description": "AAAAAAAA",
+            "amount": "270.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1341989099",
+            "reference_number": "8120705068",
+            "description": "AAAAAAAA",
+            "amount": "-1000.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1341988851",
+            "reference_number": "2017120440014BMOV0000452541700",
+            "description": "AAAAAAAA",
+            "amount": "1000.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1340906029",
+            "reference_number": "8186550284",
+            "description": "AAAAAAAA",
+            "amount": "-1536.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-01",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1340882290",
+            "reference_number": "8112622887",
+            "description": "AAAAAAAA",
+            "amount": "-37.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-12-01",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1340876740",
+            "reference_number": "2017120140014BMOV0000497318920",
+            "description": "AAAAAAAA",
+            "amount": "1600.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-12-01",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1339275593",
+            "reference_number": "3339688660",
+            "description": "AAAAAAAA",
+            "amount": "-17.50",
+            "status": "A",
+            "type": "1",
+            "date": "2017-11-30",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1334516843",
+            "reference_number": "4443280502",
+            "description": "AAAAAAAA",
+            "amount": "-63.50",
+            "status": "A",
+            "type": "1",
+            "date": "2017-11-27",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1334512605",
+            "reference_number": "300969280012",
+            "description": "AAAAAAAA",
+            "amount": "45.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-11-27",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1330207328",
+            "reference_number": "4741742900018345-373627",
+            "description": "SEM 980701STA 17/11/2017.7 ELEVEN BACHILLERES",
+            "amount": "-35.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-11-21",
+            "business": {
+                "name": "7 ELEVEN BACHILLERES",
+                "activity": {
+                    "name": "Retail"
+                }
+            },
+            "details": {
+                "category": "COMERCIO",
+                "product": "",
+                "subcategory": "RETAIL",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1328371200",
+            "reference_number": "SPEI",
+            "description": "AAAAAAAA",
+            "amount": "-1.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-11-21",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1326846611",
+            "reference_number": "4443280502",
+            "description": "AAAAAAAA",
+            "amount": "-15.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-11-17",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1326707499",
+            "reference_number": "8110748808",
+            "description": "AAAAAAAA",
+            "amount": "-25.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-11-17",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1326704306",
+            "reference_number": "300969280012",
+            "description": "AAAAAAAA",
+            "amount": "100.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-11-17",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1326692627",
+            "reference_number": "300969280012",
+            "description": "AAAAAAAA",
+            "amount": "5.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-11-17",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1309883812",
+            "reference_number": "8114947015",
+            "description": "AAAAAAAA",
+            "amount": "-500.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-10-31",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1309881288",
+            "reference_number": "2017103140014BMOV0000470636820",
+            "description": "AAAAAAAA",
+            "amount": "500.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-10-31",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1306049401",
+            "reference_number": "300994360012",
+            "description": "AAAAAAAA",
+            "amount": "1.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-10-27",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1306048224",
+            "reference_number": "3339688660",
+            "description": "AAAAAAAA",
+            "amount": "-17.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-10-27",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "5053773552",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-500.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-10-13",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CAJERO",
+                "product": "",
+                "subcategory": "RETIRO",
+                "service": "",
+                "brand": "",
+                "atm": "CORPORATIVO BANREGIO",
+                "bank": "BANREGIO"
+            }
+        },
+        {
+            "transaction_number": "1294503861",
+            "reference_number": "2017101340014BMOV0000458012870",
+            "description": "AAAAAAAA",
+            "amount": "500.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-10-13",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1290190815",
+            "reference_number": "4741742900018345-781814",
+            "description": "SEM 980701STA 05/10/2017.7 ELEVEN CONTRY SOL",
+            "amount": "-7.50",
+            "status": "A",
+            "type": "1",
+            "date": "2017-10-09",
+            "business": {
+                "name": "7 ELEVEN CONTRY SOL",
+                "activity": {
+                    "name": "Retail"
+                }
+            },
+            "details": {
+                "category": "COMERCIO",
+                "product": "",
+                "subcategory": "RETAIL",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1287746605",
+            "reference_number": "4741742900018345-782465",
+            "description": "CDI 930202P63 05/10/2017.GAS COMER DIAFE",
+            "amount": "-370.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-10-06",
+            "business": {
+                "name": "GAS COMER DIAFE",
+                "activity": {
+                    "name": "Gasolineras"
+                }
+            },
+            "details": {
+                "category": "COMERCIO",
+                "product": "",
+                "subcategory": "GASOLINERAS",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "5053591848",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-300.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-10-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CAJERO",
+                "product": "",
+                "subcategory": "RETIRO",
+                "service": "",
+                "brand": "",
+                "atm": "CORPORATIVO BANREGIO",
+                "bank": "BANREGIO"
+            }
+        },
+        {
+            "transaction_number": "1285835168",
+            "reference_number": "2017100440014BMOV0000468509740",
+            "description": "AAAAAAAA",
+            "amount": "650.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-10-04",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1284655813",
+            "reference_number": "4741751716123629",
+            "description": "AAAAAAAA",
+            "amount": "-129.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-10-03",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1284099496",
+            "reference_number": "014110606085211710050000006497",
+            "description": "AAAAAAAA",
+            "amount": "-649.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-10-02",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1284094502",
+            "reference_number": "2017100340014BMOV0000462799460",
+            "description": "AAAAAAAA",
+            "amount": "200.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-10-02",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1284084830",
+            "reference_number": "05236116011809201700000001500066",
+            "description": "AAAAAAAA",
+            "amount": "-150.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-10-02",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1284079000",
+            "reference_number": "2017100340014BMOV0000462798460",
+            "description": "AAAAAAAA",
+            "amount": "637.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-10-02",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1281601524",
+            "reference_number": "8115038708",
+            "description": "AAAAAAAA",
+            "amount": "-500.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-29",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1281561420",
+            "reference_number": "2017092940014BMOV0000454490360",
+            "description": "AAAAAAAA",
+            "amount": "500.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-09-29",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "5053416219",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-3600.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-26",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CAJERO",
+                "product": "",
+                "subcategory": "RETIRO",
+                "service": "",
+                "brand": "",
+                "atm": "TORRE XII",
+                "bank": "BANREGIO"
+            }
+        },
+        {
+            "transaction_number": "1276970549",
+            "reference_number": "2017092540014BMOV0000476639770",
+            "description": "AAAAAAAA",
+            "amount": "3600.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-09-25",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1274381211",
+            "reference_number": "SPEI",
+            "description": "AAAAAAAA",
+            "amount": "-1.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-21",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1274380430",
+            "reference_number": "SPEI",
+            "description": "AAAAAAAA",
+            "amount": "-1.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-21",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1274250763",
+            "reference_number": "SPEI",
+            "description": "AAAAAAAA",
+            "amount": "-1.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-21",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "5535614675",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-100.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-18",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CAJERO",
+                "product": "",
+                "subcategory": "RETIRO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": "SCOTIABANK"
+            }
+        },
+        {
+            "transaction_number": "1269198248",
+            "reference_number": "2017091840014BMOV0000455558820",
+            "description": "AAAAAAAA",
+            "amount": "200.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-09-15",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1269197364",
+            "reference_number": "2017091840014BMOV0000455557160",
+            "description": "AAAAAAAA",
+            "amount": "50.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-09-15",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1268611691",
+            "reference_number": "8123857778",
+            "description": "AAAAAAAA",
+            "amount": "-500.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-15",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "BANREGIO",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1268475023",
+            "reference_number": "2017091540014BMOV0000450818570",
+            "description": "AAAAAAAA",
+            "amount": "500.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-09-15",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "5053145000",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-50.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-13",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CAJERO",
+                "product": "",
+                "subcategory": "RETIRO",
+                "service": "",
+                "brand": "",
+                "atm": "CORPORATIVO BANREGIO",
+                "bank": "BANREGIO"
+            }
+        },
+        {
+            "transaction_number": "5053145000",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-5.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-13",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CUENTA",
+                "product": "",
+                "subcategory": "CHEQUE",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "1266853589",
+            "reference_number": "2017091340014BMOV0000489602690",
+            "description": "AAAAAAAA",
+            "amount": "50.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-09-13",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        },
+        {
+            "transaction_number": "5053016655",
+            "reference_number": "4741742900018345",
+            "description": "AAAAAAAA",
+            "amount": "-350.00",
+            "status": "A",
+            "type": "1",
+            "date": "2017-09-06",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "CAJERO",
+                "product": "",
+                "subcategory": "RETIRO",
+                "service": "",
+                "brand": "",
+                "atm": "CORPORATIVO BANREGIO",
+                "bank": "BANREGIO"
+            }
+        },
+        {
+            "transaction_number": "1260619743",
+            "reference_number": "2017090640014BMOV0000466232120",
+            "description": "AAAAAAAA",
+            "amount": "350.00",
+            "status": "A",
+            "type": "2",
+            "date": "2017-09-06",
+            "business": {
+                "name": "",
+                "activity": {
+                    "name": ""
+                }
+            },
+            "details": {
+                "category": "TRANSFERENCIA",
+                "product": "",
+                "subcategory": "SPEI",
+                "service": "",
+                "brand": "",
+                "atm": "",
+                "bank": ""
+            }
+        }
+    ]
+}
