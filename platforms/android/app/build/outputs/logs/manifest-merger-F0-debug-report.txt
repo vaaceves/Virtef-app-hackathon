@@ -1,0 +1,184 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:3:2-35
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:5:2-27
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:4:2-29
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:2:11-69
+supports-screens
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:7:2-11:33
+	android:largeScreens
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:10:3-30
+	android:smallScreens
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:8:3-30
+	android:normalScreens
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:9:3-31
+	android:xlargeScreens
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:11:3-31
+uses-sdk
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:13:2-15:34
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8d18e4164c064b87a6c612d5a7094d657e35c27d\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8d6056920552bee6d1bad7239d4ef39ef8380e76\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\830cb66e29318bada24e1311dcacaa65ec7c8a74\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\720a7df76b2627c378e2b1cd8e9bd64fd100296d\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8106c2ee3494690f5bf95495d050e5a100b2a4e9\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\e45a389385dea0bcf2c5cd33b5acc5a38f27858c\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\7bbcfeddbf060b19b94fe04931b7c3bc6cd71ba8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\afc288d930640da969817edd7ef781b5798b942c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\796bcde5e7c022aa63f7fc25ce0e20f7bea3245e\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\87f297a8f1f46287051fb72bda68511d1dd5188a\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\c59a0336a73195cdda84c124f34febd702c6a3b2\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\6d69a8f614a12d8bf7a5e79538ede8c6803f0535\output\AndroidManifest.xml:21:5-23:58
+MERGED from [:nativescript-optimized:] C:\Users\vaace\.android\build-cache\66c3039277ea754a7709e055b80fa754a3c7001b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:Chart-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\fc295b90839f3b9a769211d3a927a1297d52995b\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:Common-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\2b7ebe51f7fb5e600acbd9f5db4d814cf391a654\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:Data-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\e4a4c97a35a0d98df4ff5ee4a32aed3cecb3668e\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:Gauges-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\329f775d4a93e4fc86326c763d989f3542ce80ca\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:Input-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\5e6be8c398a1c60a5c1a88fd73ba8bf46083d607\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:List-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\55c2dbc46b73f0ded6016bad600159d6279dd508\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:Primitives-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\f68fa8fd65b9b753d5ff3856ed9b7aad410b3816\output\AndroidManifest.xml:7:5-9:41
+MERGED from [:widgets-release:] C:\Users\vaace\.android\build-cache\d544f61ade6811e48dbac825d700f9a578258921\output\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8d18e4164c064b87a6c612d5a7094d657e35c27d\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:15:3-32
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:14:3-29
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:17:19-74
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:18:2-77
+	android:name
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:18:19-75
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:19:2-63
+	android:name
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:19:19-61
+application
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:21:2-42:16
+MERGED from [com.android.support:design:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8d18e4164c064b87a6c612d5a7094d657e35c27d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8d6056920552bee6d1bad7239d4ef39ef8380e76\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\830cb66e29318bada24e1311dcacaa65ec7c8a74\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\720a7df76b2627c378e2b1cd8e9bd64fd100296d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\e45a389385dea0bcf2c5cd33b5acc5a38f27858c\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\7bbcfeddbf060b19b94fe04931b7c3bc6cd71ba8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\afc288d930640da969817edd7ef781b5798b942c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\796bcde5e7c022aa63f7fc25ce0e20f7bea3245e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\87f297a8f1f46287051fb72bda68511d1dd5188a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\c59a0336a73195cdda84c124f34febd702c6a3b2\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\6d69a8f614a12d8bf7a5e79538ede8c6803f0535\output\AndroidManifest.xml:29:5-20
+MERGED from [:Chart-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\fc295b90839f3b9a769211d3a927a1297d52995b\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:Common-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\2b7ebe51f7fb5e600acbd9f5db4d814cf391a654\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:Data-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\e4a4c97a35a0d98df4ff5ee4a32aed3cecb3668e\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:11:5-32:19
+MERGED from [:Gauges-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\329f775d4a93e4fc86326c763d989f3542ce80ca\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:Input-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\5e6be8c398a1c60a5c1a88fd73ba8bf46083d607\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:List-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\55c2dbc46b73f0ded6016bad600159d6279dd508\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:Primitives-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\f68fa8fd65b9b753d5ff3856ed9b7aad410b3816\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:widgets-release:] C:\Users\vaace\.android\build-cache\d544f61ade6811e48dbac825d700f9a578258921\output\AndroidManifest.xml:11:5-12:19
+	android:label
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:25:3-35
+	android:allowBackup
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:23:3-29
+	android:icon
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:24:3-32
+	android:theme
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:26:3-34
+	android:name
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:22:3-49
+activity#com.tns.NativeScriptActivity
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:28:3-40:14
+	android:label
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:30:4-49
+	android:configChanges
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:31:4-65
+	android:theme
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:32:4-44
+	android:name
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:29:4-47
+meta-data#SET_THEME_ON_LAUNCH
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:34:4-87
+	android:resource
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:34:50-84
+	android:name
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:34:15-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:36:4-39:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:37:5-57
+	android:name
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:37:13-54
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:38:5-65
+	android:name
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:38:15-62
+activity#com.tns.ErrorReportActivity
+ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:41:3-57
+	android:name
+		ADDED from C:\Users\vaace\Desktop\Native\virtefHachathon\virtef\platforms\android\app\src\main\AndroidManifest.xml:41:13-55
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8d18e4164c064b87a6c612d5a7094d657e35c27d\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8d6056920552bee6d1bad7239d4ef39ef8380e76\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\830cb66e29318bada24e1311dcacaa65ec7c8a74\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\720a7df76b2627c378e2b1cd8e9bd64fd100296d\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8106c2ee3494690f5bf95495d050e5a100b2a4e9\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:transition:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\e45a389385dea0bcf2c5cd33b5acc5a38f27858c\output\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\7bbcfeddbf060b19b94fe04931b7c3bc6cd71ba8\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\afc288d930640da969817edd7ef781b5798b942c\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\796bcde5e7c022aa63f7fc25ce0e20f7bea3245e\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\87f297a8f1f46287051fb72bda68511d1dd5188a\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\c59a0336a73195cdda84c124f34febd702c6a3b2\output\AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\6d69a8f614a12d8bf7a5e79538ede8c6803f0535\output\AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8d18e4164c064b87a6c612d5a7094d657e35c27d\output\AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:design:26.0.0-alpha1] C:\Users\vaace\.android\build-cache\8d18e4164c064b87a6c612d5a7094d657e35c27d\output\AndroidManifest.xml:26:9-47
+activity#com.telerik.widget.feedback.SendFeedbackActivity
+ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:12:9-16:20
+	android:label
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:14:13-65
+	android:theme
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:15:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:13:13-76
+activity#com.telerik.widget.feedback.ViewFeedbackActivity
+ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:17:9-21:20
+	android:label
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:19:13-65
+	android:theme
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:20:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:18:13-76
+activity#com.telerik.widget.feedback.ViewFeedbackItemActivity
+ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:22:9-26:20
+	android:label
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:24:13-65
+	android:theme
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:25:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:23:13-80
+activity#com.telerik.widget.feedback.EditDetailsActivity
+ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:27:9-31:20
+	android:label
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:29:13-64
+	android:theme
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:30:13-50
+	android:name
+		ADDED from [:Feedback-2017.1.1221-dev-release:] C:\Users\vaace\.android\build-cache\ce42437b66b0ed5199f306dc60a98db9f29055d4\output\AndroidManifest.xml:28:13-75

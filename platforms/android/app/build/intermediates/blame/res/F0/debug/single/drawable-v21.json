@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d18e4164c064b87a6c612d5a7094d657e35c27d\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\pressable_item_background.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\55c2dbc46b73f0ded6016bad600159d6279dd508\\output\\res\\drawable-v21\\pressable_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d18e4164c064b87a6c612d5a7094d657e35c27d\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\autocomplete_bg_normal.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\5e6be8c398a1c60a5c1a88fd73ba8bf46083d607\\output\\res\\drawable-v21\\autocomplete_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d18e4164c064b87a6c612d5a7094d657e35c27d\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\autocomplete_focusable_bg.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\5e6be8c398a1c60a5c1a88fd73ba8bf46083d607\\output\\res\\drawable-v21\\autocomplete_focusable_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d18e4164c064b87a6c612d5a7094d657e35c27d\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-v21\\autocomplete_bg_active.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\5e6be8c398a1c60a5c1a88fd73ba8bf46083d607\\output\\res\\drawable-v21\\autocomplete_bg_active.xml"
+    }
+]

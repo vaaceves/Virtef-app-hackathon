@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\background.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\loading.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\virtef_log.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\virtef_log.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\menu.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-hdpi\\logo.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    }
+]

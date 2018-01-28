@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d18e4164c064b87a6c612d5a7094d657e35c27d\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d18e4164c064b87a6c612d5a7094d657e35c27d\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\drawer_slide_out_top.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\f68fa8fd65b9b753d5ff3856ed9b7aad410b3816\\output\\res\\anim\\drawer_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d18e4164c064b87a6c612d5a7094d657e35c27d\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d18e4164c064b87a6c612d5a7094d657e35c27d\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\drawer_slide_in_top.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\f68fa8fd65b9b753d5ff3856ed9b7aad410b3816\\output\\res\\anim\\drawer_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\8d6056920552bee6d1bad7239d4ef39ef8380e76\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

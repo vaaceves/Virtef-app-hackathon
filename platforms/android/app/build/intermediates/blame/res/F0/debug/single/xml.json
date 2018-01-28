@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\xml\\chart_palettes_dark_selected.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\fc295b90839f3b9a769211d3a927a1297d52995b\\output\\res\\xml\\chart_palettes_dark_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\xml\\chart_palettes_light_selected.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\fc295b90839f3b9a769211d3a927a1297d52995b\\output\\res\\xml\\chart_palettes_light_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\xml\\chart_palettes_default_light.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\fc295b90839f3b9a769211d3a927a1297d52995b\\output\\res\\xml\\chart_palettes_default_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\xml\\chart_palettes_default_dark.xml",
+        "source": "C:\\Users\\vaace\\.android\\build-cache\\fc295b90839f3b9a769211d3a927a1297d52995b\\output\\res\\xml\\chart_palettes_default_dark.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\icon.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\menu.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\background.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\virtef_log.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\virtef_log.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\logo.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\build\\intermediates\\res\\merged\\F0\\debug\\drawable-xhdpi\\loading.png",
+        "source": "C:\\Users\\vaace\\Desktop\\Native\\virtefHachathon\\virtef\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\loading.png"
+    }
+]
